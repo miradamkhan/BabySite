@@ -1,0 +1,107 @@
+Terms of Service
+Last Updated: January 29, 2026
+
+Please read these Terms of Service ("Terms", "Agreement") carefully before using the Nest mobile application ("App", "Service") operated by Nest ("we", "our", "us", or "Company").
+
+These Terms constitute a legally binding agreement between you ("User", "you", or "your") and Nest regarding your use of the App. By downloading, installing, accessing, or using the App, you acknowledge that you have read, understood, and agree to be bound by these Terms and our Privacy Policy. If you do not agree to these Terms, do not download, install, or use the App.
+
+1. Acceptance of Terms
+By accessing or using the App, you acknowledge that you have read, understood, and agree to be bound by these Terms and our Privacy Policy. These Terms constitute a legally binding agreement between you and Nest.
+
+2. Eligibility and Age Requirements
+You must be at least 13 years of age to use this App. If you are between the ages of 13 and 18 (or the age of majority in your jurisdiction), you represent and warrant that:
+- You have your parent's or legal guardian's permission to use the App
+- Your parent or guardian has reviewed and agreed to these Terms on your behalf
+- Your parent or guardian is responsible for your use of the App
+
+By using the App, you represent and warrant that you meet these eligibility requirements and have the legal capacity to enter into this Agreement. If you do not meet these requirements, you must not use the App.
+
+3. App Features and Services
+The App provides digital wellness tools including:
+- Screen time tracking and monitoring
+- Focus Zones with location-based app blocking
+- Daily goals and streak tracking
+- Notification reminders
+
+We reserve the right to modify, suspend, or discontinue any feature of the App at any time, with or without notice, at our sole discretion. We do not guarantee that the App will be available at all times or that any specific feature will remain available.
+
+The App is provided for informational and self-improvement purposes only. Results may vary based on individual usage and commitment.
+
+4. User Responsibilities
+You agree to use the App only for lawful purposes and in accordance with these Terms. You agree not to:
+- Use the App in any way that violates applicable laws or regulations
+- Attempt to gain unauthorized access to the App or its systems
+- Interfere with or disrupt the App or servers
+- Use the App to transmit viruses or malicious code
+- Reverse engineer, decompile, or disassemble the App
+- Use the App while driving or operating machinery
+
+5. Device Permissions
+The App requires certain device permissions to function properly:
+- Location Services: Required for Focus Zone geofencing
+- Screen Time (iOS): Required for app blocking and usage tracking
+- Notifications: Required for reminders and alerts
+- Accessibility Services (Android): Required for app blocking
+
+You can revoke these permissions at any time through your device settings, though this may limit App functionality.
+
+6. Intellectual Property
+The App, including all content, features, and functionality, is owned by Nest and is protected by copyright, trademark, and other intellectual property laws. You are granted a limited, non-exclusive, non-transferable license to use the App for personal, non-commercial purposes.
+
+You may not:
+- Copy, modify, or distribute the App
+- Use our trademarks without written permission
+- Create derivative works based on the App
+
+7. In-App Purchases and Subscriptions
+The App may offer in-app purchases and subscriptions through the Apple App Store. If you make an in-app purchase or subscribe to a service:
+- Payment will be charged to your Apple ID account at the confirmation of purchase
+- Subscriptions automatically renew unless auto-renew is turned off at least 24 hours before the end of the current period
+- Your account will be charged for renewal within 24 hours prior to the end of the current period
+- You can manage and cancel your subscriptions by going to your Apple ID account settings after purchase
+- Any unused portion of a free trial period, if offered, will be forfeited when you purchase a subscription
+- Prices are subject to change with notice
+
+All purchases are final. Refunds are handled in accordance with Apple's App Store refund policy. To request a refund, please contact Apple Support directly through your Apple ID account settings or at https://support.apple.com.
+
+If you have any billing questions or issues, please contact Apple Support, as all transactions are processed by Apple, not by us.
+
+8. Disclaimers
+THE APP IS PROVIDED "AS IS" AND "AS AVAILABLE" WITHOUT WARRANTIES OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT.
+
+THE APP IS A DIGITAL WELLNESS TOOL INTENDED FOR INFORMATIONAL AND SELF-IMPROVEMENT PURPOSES ONLY. IT IS NOT INTENDED TO BE, AND DOES NOT CONSTITUTE, PROFESSIONAL MEDICAL, PSYCHOLOGICAL, PSYCHIATRIC, OR THERAPEUTIC ADVICE, DIAGNOSIS, OR TREATMENT.
+
+9. Limitation of Liability
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, IN NO EVENT SHALL Nest, ITS OFFICERS, DIRECTORS, EMPLOYEES, AGENTS, AFFILIATES, OR LICENSORS BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, OR PUNITIVE DAMAGES.
+
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, OUR TOTAL LIABILITY FOR ALL CLAIMS ARISING OUT OF OR RELATED TO THESE TERMS OR YOUR USE OF THE APP SHALL NOT EXCEED THE GREATER OF: (A) THE AMOUNT YOU PAID US FOR THE APP OR IN-APP PURCHASES IN THE TWELVE (12) MONTHS PRIOR TO THE EVENT GIVING RISE TO THE LIABILITY, OR (B) ONE HUNDRED DOLLARS ($100.00).
+
+10. Indemnification
+You agree to indemnify and hold harmless Nest and its officers, directors, employees, and agents from any claims, damages, losses, or expenses arising from:
+- Your use of the App
+- Your violation of these Terms
+- Your violation of any rights of a third party
+
+11. Termination
+We may terminate or suspend your access to the App at any time, without prior notice, for any reason, including if you breach these Terms.
+
+12. Changes to Terms
+We reserve the right to modify these Terms at any time. We will provide notice of material changes by updating the "Last Updated" date and, where appropriate, providing additional notice within the App.
+
+13. Governing Law and Dispute Resolution
+These Terms shall be governed by and construed in accordance with the laws of the State of California, United States, without regard to its conflict of law provisions.
+
+14. Severability
+If any provision of these Terms is found to be unenforceable or invalid, that provision shall be limited or eliminated to the minimum extent necessary, and the remaining provisions shall remain in full force and effect.
+
+15. Apple App Store Terms
+If you downloaded the App from the Apple App Store, additional Apple-related terms apply as described in the in-app Terms screen.
+
+16. Entire Agreement
+These Terms, together with our Privacy Policy and any other legal notices published by us in the App, constitute the entire agreement between you and Nest regarding your use of the App and supersede all prior or contemporaneous agreements, communications, and proposals, whether oral or written.
+
+17. Contact Information
+If you have any questions, concerns, or complaints about these Terms or the App, please contact us at:
+Email: info@installnest.app
+
+We will make reasonable efforts to respond to your inquiry within a reasonable timeframe.

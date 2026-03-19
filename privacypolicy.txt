@@ -1,0 +1,94 @@
+Privacy Policy
+Last Updated: January 29, 2026
+
+Nest ("we", "our", "us") respects your privacy. This Privacy Policy explains what information we collect, how we use it, how it is stored, and what choices you have when using the Nest mobile application ("App").
+
+By using the App, you agree to the practices described in this Privacy Policy.
+
+1. Information We Collect
+
+We collect and store information you provide directly in the App, including:
+
+- Child profile information (for example: name, birth date, sex, and optional gestational age)
+- Tracking logs (sleep, feeding, diaper, pumping, medication, growth)
+- Parent profile details (for example: parent name)
+- Preferences and settings (for example: reminders, quiet hours, onboarding state)
+- Subscription state needed to determine feature access
+
+2. How We Use Information
+
+We use your information to:
+
+- Provide core tracking and history features
+- Generate summaries, insights, and recommendations
+- Power reminders and in-app personalization
+- Enable premium feature access based on subscription status
+- Improve app reliability and user experience
+
+3. Data Storage
+
+Most app data is stored locally on your device. This includes logs, profile information, and many settings.
+
+Some subscription-related information is processed through third-party services (such as Apple and RevenueCat) to validate purchases and entitlements.
+
+4. Payments and Subscriptions
+
+Purchases are processed by Apple through your App Store account.
+We do not receive or store your full payment card details.
+
+We may receive subscription status metadata (for example: active entitlement state) from RevenueCat to unlock paid features.
+
+5. Third-Party Services
+
+The App may use third-party providers to operate key functionality, including:
+
+- Apple App Store (in-app purchases and subscription billing)
+- RevenueCat (subscription management and entitlement status)
+
+These providers process data under their own privacy policies.
+
+6. Permissions
+
+Depending on enabled features, the App may request device permissions, such as:
+
+- Notifications (for reminders)
+- Other platform-specific permissions needed for app functionality
+
+You can manage permissions in your device settings.
+
+7. Data Retention
+
+Data you enter is retained to support app functionality until you remove it, reset local app data, or uninstall the App.
+
+8. Your Choices and Rights
+
+You can:
+
+- Edit or delete logs inside the App
+- Reset onboarding/local state from in-app settings (where available)
+- Uninstall the App to remove local storage data from your device
+- Manage/cancel subscriptions via your Apple ID settings
+
+If you have privacy-related requests, contact us using the email below.
+
+9. Children's Privacy
+
+Nest is designed for caregivers and parents to track baby-related data. We do not knowingly collect personal information directly from children under applicable legal age without appropriate consent from a parent or guardian.
+
+10. Security
+
+We use reasonable technical and organizational measures to protect information processed by the App. No method of storage or transmission is completely secure, and we cannot guarantee absolute security.
+
+11. International Use
+
+If you use the App outside your country of residence, you understand that your information may be processed in jurisdictions where privacy laws may differ.
+
+12. Changes to This Policy
+
+We may update this Privacy Policy from time to time. If we make material changes, we will update the "Last Updated" date and, where appropriate, provide additional notice in the App.
+
+13. Contact Us
+
+If you have questions about this Privacy Policy or your data, contact:
+
+info@installnest.app

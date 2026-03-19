@@ -1,0 +1,234 @@
+:root {
+  color-scheme: light;
+  --bg-top: #eeecef;
+  --bg-mid: #e6d9dc;
+  --bg-bottom: #d4a196;
+  --text-main: #181313;
+  --text-sub: #2e2424;
+  --footer-text: #221919;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  min-height: 100vh;
+  font-family: "Inter", system-ui, -apple-system, Segoe UI, Roboto, sans-serif;
+  background: linear-gradient(180deg, var(--bg-top) 0%, var(--bg-mid) 44%, var(--bg-bottom) 100%);
+  color: var(--text-main);
+  overflow-x: hidden;
+}
+
+.page-wrap {
+  width: min(1080px, 92vw);
+  margin: 0 auto;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+.page-bg,
+.page-bg-clouds {
+  position: fixed;
+  inset: 0;
+  pointer-events: none;
+  z-index: -2;
+}
+
+.page-bg::before,
+.page-bg::after {
+  content: "";
+  position: absolute;
+  border-radius: 999px;
+  filter: blur(4px);
+  opacity: 0.2;
+}
+
+.page-bg::before {
+  width: 38vw;
+  height: 14vw;
+  left: -7vw;
+  top: 52vh;
+  background: #f8f2f1;
+}
+
+.page-bg::after {
+  width: 45vw;
+  height: 14vw;
+  right: -8vw;
+  top: 56vh;
+  background: #f6eeed;
+}
+
+.page-bg-clouds {
+  background:
+    radial-gradient(36rem 10rem at 12% 79%, rgba(255, 255, 255, 0.25), rgba(255, 255, 255, 0) 70%),
+    radial-gradient(28rem 8rem at 90% 84%, rgba(255, 255, 255, 0.28), rgba(255, 255, 255, 0) 73%),
+    radial-gradient(26rem 7rem at 68% 73%, rgba(255, 255, 255, 0.2), rgba(255, 255, 255, 0) 70%);
+  z-index: -1;
+}
+
+.site-header {
+  padding: 1.4rem 0.2rem;
+}
+
+.logo {
+  width: clamp(140px, 17vw, 220px);
+  height: auto;
+  object-fit: contain;
+}
+
+.hero {
+  margin-top: 2vh;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  flex: 1;
+}
+
+.hero h1 {
+  margin: 0;
+  font-size: clamp(2rem, 6vw, 4.1rem);
+  line-height: 1.08;
+  letter-spacing: -0.03em;
+  font-weight: 800;
+  max-width: 14ch;
+}
+
+.hero p {
+  margin: 1.1rem auto 0;
+  max-width: 60ch;
+  color: var(--text-sub);
+  font-size: clamp(0.95rem, 1.45vw, 1.15rem);
+  line-height: 1.5;
+}
+
+.coming-soon {
+  margin-top: 1.4rem;
+  padding: 0.56rem 1rem;
+  border-radius: 999px;
+  border: 1px solid rgba(24, 19, 19, 0.36);
+  background: rgba(255, 255, 255, 0.32);
+  font-size: 0.9rem;
+  letter-spacing: 0.02em;
+  text-transform: uppercase;
+  font-weight: 600;
+}
+
+.iphone {
+  margin-top: 2.2rem;
+  width: min(350px, 83vw);
+  border-radius: 54px;
+  background:
+    linear-gradient(160deg, #3f424a 0%, #0d0f12 40%, #23262d 100%);
+  border: 1px solid rgba(255, 255, 255, 0.34);
+  padding: 0.78rem 0.72rem 0.92rem;
+  position: relative;
+  box-shadow:
+    0 22px 48px rgba(0, 0, 0, 0.34),
+    0 3px 7px rgba(0, 0, 0, 0.18),
+    inset 0 0 0 1px rgba(255, 255, 255, 0.08);
+}
+
+.iphone::before,
+.iphone::after {
+  content: "";
+  position: absolute;
+  left: -2px;
+  width: 3px;
+  border-radius: 2px;
+  background: #2a2d35;
+}
+
+.iphone::before {
+  height: 48px;
+  top: 140px;
+}
+
+.iphone::after {
+  height: 70px;
+  top: 210px;
+}
+
+.iphone-camera-island {
+  width: 38%;
+  height: 30px;
+  margin: 0.02rem auto 0.86rem;
+  border-radius: 999px;
+  background: #020202;
+  box-shadow: inset 0 0 0 1px rgba(255, 255, 255, 0.04);
+}
+
+.iphone-screen {
+  border-radius: 42px;
+  overflow: hidden;
+  background: #000;
+  min-height: 620px;
+  border: 1px solid rgba(255, 255, 255, 0.07);
+}
+
+.iphone-screen img {
+  width: 100%;
+  height: 100%;
+  min-height: 620px;
+  display: block;
+  object-fit: cover;
+  object-position: center top;
+}
+
+.site-footer {
+  margin-top: 2rem;
+  padding: 1rem 0.1rem 1.3rem;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1rem;
+  color: var(--footer-text);
+  font-size: 0.95rem;
+}
+
+.site-footer p {
+  margin: 0;
+}
+
+.site-footer nav {
+  display: flex;
+  gap: 1.15rem;
+}
+
+.site-footer a {
+  color: var(--footer-text);
+  text-decoration: none;
+}
+
+.site-footer a:hover,
+.site-footer a:focus-visible {
+  text-decoration: underline;
+}
+
+@media (max-width: 760px) {
+  .site-header {
+    padding-top: 1rem;
+  }
+
+  .hero {
+    margin-top: 0.4rem;
+  }
+
+  .hero p {
+    max-width: 42ch;
+  }
+
+  .iphone {
+    margin-top: 1.7rem;
+  }
+
+  .site-footer {
+    flex-direction: column;
+    align-items: flex-start;
+    padding-bottom: 1.1rem;
+  }
+}
